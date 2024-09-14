@@ -1,0 +1,71 @@
+[33mcommit 2c533584c5874794141a4babecbd2b357c7738a1[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Author: Lucane <lucassanntos01@gmail.com>
+Date:   Fri Sep 13 18:56:46 2024 -0700
+
+    Sending Messages to Rooms
+
+[33mcommit 877292bcede5ff2fbeb27adc355de7e8dc83a74f[m
+Author: Lucane <lucassanntos01@gmail.com>
+Date:   Fri Sep 13 18:31:46 2024 -0700
+
+    Storing Users
+
+[33mcommit fd6619caf14a67283aed98bb32ea0f0d183df27a[m
+Author: Lucane <lucassanntos01@gmail.com>
+Date:   Fri Sep 13 18:12:40 2024 -0700
+
+    Socket.io Rooms
+
+[33mcommit 5cdc30aa7fcf03749b24a6da062eb43de24dee2d[m
+Author: Lucane <lucassanntos01@gmail.com>
+Date:   Fri Sep 13 17:51:24 2024 -0700
+
+    Join Page
+
+[33mcommit be6c42b7a5efebd81b9c43f2502f7a04766016a6[m
+Author: Lucane <lucassanntos01@gmail.com>
+Date:   Fri Sep 13 17:35:56 2024 -0700
+
+    Styling the Chat App
+
+[33mcommit dbadcdd3c65a28b92ce8f3c5fed7a2b83028bb31[m
+Author: Lucane <lucassanntos01@gmail.com>
+Date:   Fri Sep 13 16:45:16 2024 -0700
+
+    Timestamps for Messages and Location Messages
+
+[33mcommit 684f2ce90c41df514984ea21c95381ab18f37a0b[m
+Author: Lucane <lucassanntos01@gmail.com>
+Date:   Fri Sep 13 16:03:36 2024 -0700
+
+    Rendering Messages and Location Messages
+
+[33mcommit 40ac2a0df149ade4266799e15aa415059695dee7[m
+Author: Lucane <lucassanntos01@gmail.com>
+Date:   Fri Sep 13 15:41:17 2024 -0700
+
+    Form and Button States
+
+[33mcommit 5b4ddc4312f2f228aecd31a15e5d8c376528d46e[m
+Author: Lucane <lucassanntos01@gmail.com>
+Date:   Fri Sep 13 05:11:35 2024 -0700
+
+    Sharing Location Coords
+
+[33mcommit 8e72e29154973110cf12ab0babde83ad657d6af3[m
+Author: Lucane <lucassanntos01@gmail.com>
+Date:   Fri Sep 13 05:06:49 2024 -0700
+
+    Broadcasting Events
+
+[33mcommit cd925411dc978fe0e4fa26182201ca65285afba2[m
+Author: Lucane <lucassanntos01@gmail.com>
+Date:   Thu Sep 12 07:18:21 2024 -0700
+
+    Socket.io Events
+
+[33mcommit 4712da3f06f95318d8398bdcc1840c63dcf27602[m
+Author: Lucane <lucassanntos01@gmail.com>
+Date:   Wed Sep 11 20:52:28 2024 -0700
+
+    init
